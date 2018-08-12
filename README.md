@@ -11,3 +11,6 @@ Mil-App enables you to be a member of the different groups which exist in your c
 
 ### Easy access of information
 Mil-App helps college students to view the events taking place in other clubs directly via the interface provided. This gives the students an opportinity to learn from events taking place in other clubs as well as contribute their new ideas. Students can share the experiences that they had in organizing events by posting blog and this keeps the rest of the college updated as well. Also, they can easily send out invitations for a particular event and reach out to a larger audience. Mil-App also enables fresh juniors entering the college to get help from their seniors by sharing their personal problems. 
+
+
+For more information about Mil-App, please feel free to watch our demo video [here](https://www.youtube.com/watch?v=lst7ThZmOS4&feature=youtu.be). The hackerearth contest link is [here](https://www.hackerearth.com/sprints/women-day-hackathon-2015/).
