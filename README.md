@@ -1,5 +1,4 @@
-# MilApp
-mil-App! (Connect Across Peers)
+# Mil-App! : A College-Connect Web Application
 
 The App to connect with your college mates,your seniors, Juniors Alumnus. Many a times you have the need to interact with 
 people as a group when you yourself represent another group. Mil-App offers you the chance to give you a group-to-group 
